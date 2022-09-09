@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadExample", "MultithreadExample.csproj", "{B2E43704-7A95-4ADF-B263-06AAC77FC828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadExTest", "..\ThreadExTest\ThreadExTest.csproj", "{D204DB14-A3EE-4545-8D6C-48B5DE7E6C8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2E43704-7A95-4ADF-B263-06AAC77FC828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E43704-7A95-4ADF-B263-06AAC77FC828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E43704-7A95-4ADF-B263-06AAC77FC828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E43704-7A95-4ADF-B263-06AAC77FC828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D204DB14-A3EE-4545-8D6C-48B5DE7E6C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D204DB14-A3EE-4545-8D6C-48B5DE7E6C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D204DB14-A3EE-4545-8D6C-48B5DE7E6C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D204DB14-A3EE-4545-8D6C-48B5DE7E6C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73021A7B-71B0-4EAC-8EC3-E4039F6DE9DF}
+	EndGlobalSection
+EndGlobal
